@@ -1,3 +1,8 @@
+
+/*
+ * Copyright (c) 2016. Created by Prince Bansal on 16-08-2016.
+ */
+
 package com.prince.android.haptik.Entity.Activities;
 
 import android.os.Bundle;
